@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "key": "AMS",
+      "name": "eu-amsterdam-1",
+      "latitude": 52.370216,
+      "longitude": 4.895168
+    },
+    {
+      "key": "ARN",
+      "name": "eu-stockholm-1",
+      "latitude": 59.329323,
+      "longitude": 18.068581
+    },
+    {
+      "key": "AUH",
+      "name": "me-abudhabi-1",
+      "latitude": 24.453884,
+      "longitude": 54.377344
+    },
+    {
+      "key": "BOM",
+      "name": "ap-mumbai-1",
+      "latitude": 19.075984,
+      "longitude": 72.877656
+    },
+    {
+      "key": "CDG",
+      "name": "eu-paris-1",
+      "latitude": 48.856614,
+      "longitude": 2.352222
+    },
+    {
+      "key": "CWL",
+      "name": "uk-cardiff-1",
+      "latitude": 51.481583,
+      "longitude": -3.179090
+    },
+    {
+      "key": "DXB",
+      "name": "me-dubai-1",
+      "latitude": 25.276987,
+      "longitude": 55.296249
+    },
+    {
+      "key": "FRA",
+      "name": "eu-frankfurt-1",
+      "latitude": 50.110922,
+      "longitude": 8.682127
+    },
+    {
+      "key": "GRU",
+      "name": "sa-saopaulo-1",
+      "latitude": -23.550520,
+      "longitude": -46.633308
+    },
+    {
+      "key": "HYD",
+      "name": "ap-hyderabad-1",
+      "latitude": 17.385044,
+      "longitude": 78.486671
+    },
+    {
+      "key": "IAD",
+      "name": "us-ashburn-1",
+      "latitude": 39.043757,
+      "longitude": -77.487442
+    },
+    {
+      "key": "ICN",
+      "name": "ap-seoul-1",
+      "latitude": 37.566535,
+      "longitude": 126.977969
+    },
+    {
+      "key": "JED",
+      "name": "me-jeddah-1",
+      "latitude": 21.485811,
+      "longitude": 39.192505
+    },
+    {
+      "key": "JNB",
+      "name": "af-johannesburg-1",
+      "latitude": -26.204103,
+      "longitude": 28.047305
+    },
+    {
+      "key": "KIX",
+      "name": "ap-osaka-1",
+      "latitude": 34.693738,
+      "longitude": 135.502165
+    },
+    {
+      "key": "LHR",
+      "name": "uk-london-1",
+      "latitude": 51.507351,
+      "longitude": -0.127758
+    },
+    {
+      "key": "LIN",
+      "name": "eu-milan-1",
+      "latitude": 45.464203,
+      "longitude": 9.189982
+    },
+    {
