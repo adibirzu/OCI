@@ -102,4 +102,115 @@
       "latitude": 45.464203,
       "longitude": 9.189982
     },
+        {
+      "key": "MAD",
+      "name": "eu-madrid-1",
+      "latitude": 40.416775,
+      "longitude": -3.703790
+    },
     {
+      "key": "MEL",
+      "name": "ap-melbourne-1",
+      "latitude": -37.813628,
+      "longitude": 144.963058
+    },
+    {
+      "key": "MRS",
+      "name": "eu-marseille-1",
+      "latitude": 43.296482,
+      "longitude": 5.369780
+    },
+    {
+      "key": "MTY",
+      "name": "mx-monterrey-1",
+      "latitude": 25.686614,
+      "longitude": -100.316113
+    },
+    {
+      "key": "MTZ",
+      "name": "il-jerusalem-1",
+      "latitude": 31.768319,
+      "longitude": 35.213710
+    },
+    {
+      "key": "NRT",
+      "name": "ap-tokyo-1",
+      "latitude": 35.689487,
+      "longitude": 139.691706
+    },
+    {
+      "key": "ORD",
+      "name": "us-chicago-1",
+      "latitude": 41.878114,
+      "longitude": -87.629798
+    },
+    {
+      "key": "PHX",
+      "name": "us-phoenix-1",
+      "latitude": 33.448377,
+      "longitude": -112.074037
+    },
+    {
+      "key": "QRO",
+      "name": "mx-queretaro-1",
+      "latitude": 20.588818,
+      "longitude": -100.389888
+    },
+    {
+      "key": "SCL",
+      "name": "sa-santiago-1",
+      "latitude": -33.448890,
+      "longitude": -70.669265
+    },
+    {
+      "key": "SIN",
+      "name": "ap-singapore-1",
+      "latitude": 1.352083,
+      "longitude": 103.819836
+    },
+    {
+      "key": "SJC",
+      "name": "us-sanjose-1",
+      "latitude": 37.338208,
+      "longitude": -121.886329
+    },
+    {
+      "key": "SYD",
+      "name": "ap-sydney-1",
+      "latitude": -33.868820,
+      "longitude": 151.209296
+    },
+    {
+      "key": "VCP",
+      "name": "sa-vinhedo-1",
+      "latitude": -23.029167,
+      "longitude": -46.975335
+    },
+    {
+      "key": "YNY",
+      "name": "ap-chuncheon-1",
+      "latitude": 37.864912,
+      "longitude": 127.734087
+    },
+    {
+      "key": "YUL",
+      "name": "ca-montreal-1",
+      "latitude": 45.501689,
+      "longitude": -73.567256
+    },
+    {
+      "key": "YYZ",
+      "name": "ca-toronto-1",
+      "latitude": 43.653226,
+      "longitude": -79.383184
+    },
+    {
+      "key": "ZRH",
+      "name": "eu-zurich-1",
+      "latitude": 47.376887,
+      "longitude": 8.541694
+}
+]
+}
+
+   
